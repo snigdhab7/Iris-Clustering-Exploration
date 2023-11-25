@@ -2,11 +2,11 @@
 
 In the magical realm of Pattern Recognition and Machine Learning, I embarked on a journey to decipher the hidden patterns within the mystical Iris dataset. Armed with GaussianMixture, a spellbinding algorithm, I summoned clusters from the depths of the data. Let the petals unfold!
 
-## Project 1: Illuminating the Iris Mystery
+## Illuminating the Iris Mystery
 
 ### Dataset: [Dataset1.csv](https://github.com/snigdhab7/Magical-Iris-GaussianMixture/blob/main/Dataset1.csv)
 
-#### Sol(1)(i): GaussianMixture Conjuring Act
+#### GaussianMixture Conjuring Act
 
 Behold the spectacle! In my enchanted laboratory, I invoked the GaussianMixture spell on a subset of the revered Iris dataset. The stage was set, and the dancers (data points) twirled in a captivating display.
 
@@ -21,8 +21,8 @@ Behold the spectacle! In my enchanted laboratory, I invoked the GaussianMixture 
 - Green petals (cluster 2) performed a mesmerizing dance.
 
 **Magical Insights:**
-- Converged log-likelihood value: [Insert Enigmatic Number Here]
-- Witnessed the mystical ritual over [Number of Iterations] iterations.
+- Converged log-likelihood value: *To be unveiled during the mystical ritual.*
+- Witnessed the mystical ritual over *an undisclosed number of iterations.*
 
 📊 *Behold the bewitching visual representation of clusters:*
 <br/>
