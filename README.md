@@ -29,6 +29,21 @@ Experience the exploration! Applying the GaussianMixture algorithm to a subset o
 
 💻 *Dive into the script [Iris.py](https://github.com/snigdhab7/Magical-Iris-GaussianMixture/blob/main/Iris.py) for a closer look.*
 
+### IrisClustersAlchemy ✨🕊️
+
+Discover more enchantment as we delve into IrisClustersAlchemy! In this journey, GaussianMixture takes center stage, bringing forth new clusters and insights.
+
+**Highlights:**
+- Applied GaussianMixture to decode hidden Iris patterns.
+- Witness the dance of clusters and unravel the magic of the EM Algorithm.
+- Extended analysis with an undisclosed number of iterations.
+
+**Insights:**
+- Converged log-likelihood value: *Unveiling the mysteries of Iris patterns.*
+- Witnessed the mystical ritual over *an undisclosed number of iterations.*
+
+💻 *Explore the magic in [IrisClustersAlchemy]([https://github.com/snigdhab7/IrisClustersAlchemy](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/IrisClustersAlchem.py)).*
+
 ---
 
-Join the exploration as we decode more mysteries in future projects! If you resonate with the excitement of data science, delve into project folders for deeper insights. Let's uncover patterns and insights toge
+Join the exploration as we decode more mysteries in future projects! If you resonate with the excitement of data science, delve into project folders for deeper insights. Let's uncover patterns and insights together!
