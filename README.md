@@ -42,7 +42,16 @@ Discover more enchantment as we delve into IrisClustersAlchemy! In this journey,
 - Converged log-likelihood value: *Unveiling the mysteries of Iris patterns.*
 - Witnessed the mystical ritual over *an undisclosed number of iterations.*
 
-💻 *Explore the magic in [IrisClustersAlchemy](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/IrisClustersAlchem.py).*
+📊 *Explore the magic in [IrisClustersAlchemy](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/IrisClustersAlchem.py).*
+
+### Iris Clusters Alchemy Visuals 📸
+
+Explore the captivating visuals that emerged during the IrisClustersAlchemy analysis. Each image captures the dance of clusters and the convergence process.
+
+  ![image](https://user-images.githubusercontent.com/62890614/233840691-a2750217-4bee-470e-982f-6bd33ded6b07.png)
+  ![image](https://user-images.githubusercontent.com/62890614/233840719-8f86dc65-1fe6-46a7-9e95-bea032b85883.png)
+  ![image](https://user-images.githubusercontent.com/62890614/233840734-b419dd11-58b6-45d6-b267-52f3cd2619e5.png)
+  
 
 ### K-Means Revelations 🎯
 
@@ -61,15 +70,12 @@ Dive into the world of K-Means clustering as we explore the Iris dataset from a 
 <br/>
 *Each subplot represents a distinct run, highlighting the evolution of clusters and the convergence process.*
 
-![K-Means Iterations](<Link to the Image if Available>)
-
 💻 **Dive into the Code:**
-Explore the script [KMeansExploration.py](<Link to the Script>) to unravel the K-Means revelations.
+Explore the script [KMeansExploration.py](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/KMeansExploration.py) to unravel the K-Means revelations.
 
 ### Insights into Algorithm Selection 🧠
 
-In the broader context of this dataset exploration, it's worth noting that the EM algorithm, especially the exponential variant, has proven to be better suited. The detailed analysis can be found in [Sol(1)(iii).py](<Link to Sol(1)(iii).py>).
-
+In the broader context of this dataset exploration, it's worth noting that the EM algorithm, especially the exponential variant, has proven to be better suited. The detailed analysis can be found in [KMeansExploration.py](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/KMeansExploration.py) .
 ---
 
 Uncover more facets of data science as we explore diverse algorithms and methodologies. Delve into the code, visualize the results, and join the journey of decoding the mysteries within the Iris dataset!
