@@ -44,6 +44,36 @@ Discover more enchantment as we delve into IrisClustersAlchemy! In this journey,
 
 💻 *Explore the magic in [IrisClustersAlchemy](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/IrisClustersAlchem.py).*
 
+### K-Means Revelations 🎯
+
+Dive into the world of K-Means clustering as we explore the Iris dataset from a different perspective. The `KMeansExploration.py` script delves into the K-Means algorithm, providing insights into cluster assignments and convergence patterns.
+
+**Key Features:**
+- **Initialization Magic:** Leverage multiple random centroid initializations to explore the sensitivity of K-Means.
+- **Convergence Visualization:** Witness the dance of clusters over iterations with dynamic visualizations.
+- **Error Plotting:** Track the objective of K-Means as it strives to optimize cluster assignments.
+
+**Iterations Unveiled:**
+- The script runs K-Means with K=4 over multiple random initializations to uncover the nuances of cluster assignments.
+- Each run unveils a unique perspective, showcasing the dynamic nature of the K-Means algorithm.
+
+📊 **Explore the Iterative Journey:**
+<br/>
+*Each subplot represents a distinct run, highlighting the evolution of clusters and the convergence process.*
+
+![K-Means Iterations](<Link to the Image if Available>)
+
+💻 **Dive into the Code:**
+Explore the script [KMeansExploration.py](<Link to the Script>) to unravel the K-Means revelations.
+
+### Insights into Algorithm Selection 🧠
+
+In the broader context of this dataset exploration, it's worth noting that the EM algorithm, especially the exponential variant, has proven to be better suited. The detailed analysis can be found in [Sol(1)(iii).py](<Link to Sol(1)(iii).py>).
+
+---
+
+Uncover more facets of data science as we explore diverse algorithms and methodologies. Delve into the code, visualize the results, and join the journey of decoding the mysteries within the Iris dataset!
+
 ---
 
 Join the exploration as we decode more mysteries in future projects! If you resonate with the excitement of data science, delve into project folders for deeper insights. Let's uncover patterns and insights together!
