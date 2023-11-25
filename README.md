@@ -42,7 +42,7 @@ Discover more enchantment as we delve into IrisClustersAlchemy! In this journey,
 - Converged log-likelihood value: *Unveiling the mysteries of Iris patterns.*
 - Witnessed the mystical ritual over *an undisclosed number of iterations.*
 
-💻 *Explore the magic in [IrisClustersAlchemy]([https://github.com/snigdhab7/IrisClustersAlchemy](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/IrisClustersAlchem.py)).*
+💻 *Explore the magic in [IrisClustersAlchemy](https://github.com/snigdhab7/Iris-Gaussian-Clusters/blob/main/IrisClustersAlchem.py).*
 
 ---
 
