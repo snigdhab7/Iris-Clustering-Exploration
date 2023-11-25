@@ -4,7 +4,7 @@ In the magical realm of Pattern Recognition and Machine Learning, I embarked on 
 
 ## Project 1: Illuminating the Iris Mystery
 
-### Dataset: [Dataset1.csv](link_to_dataset1)
+### Dataset: [Dataset1.csv](https://github.com/snigdhab7/Magical-Iris-GaussianMixture/blob/main/Dataset1.csv)
 
 #### Sol(1)(i): GaussianMixture Conjuring Act
 
@@ -27,7 +27,7 @@ Behold the spectacle! In my enchanted laboratory, I invoked the GaussianMixture 
 📊 *Behold the bewitching visual representation of clusters:*
 ![EM Algorithm Convergence](https://user-images.githubusercontent.com/62890614/233840589-a49a7481-d081-47fc-a9df-0eb0e6a71350.png)
 
-💻 *Explore the magical script in [Iris.py](link_to_code) to unravel the secrets.*
+💻 *Explore the magical script in [Iris.py]([https://github.com/your-username/your-repo/blob/main/path-to-your-code/Sol(1)(i).py](https://github.com/snigdhab7/Magical-Iris-GaussianMixture/blob/main/Iris.py))  to unravel the secrets.*
 
 ---
 
